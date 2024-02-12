@@ -8,7 +8,7 @@
 
 # Unlocking Tomorrow's Technology Today!
 
-You will find us at 42 Garden Road, Cape Town 8001, South Africa.
+- You will find us at 42 Garden Road, Cape Town 8001, South Africa.
 
 ## We Sell:
 
